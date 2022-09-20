@@ -1,4 +1,8 @@
 body{
+    background-color: aquamarine;
     font-family: sans-serif;
     text-decoration: underline;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif
 }
